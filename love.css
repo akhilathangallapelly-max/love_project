@@ -191,7 +191,7 @@ video::-webkit-media-controls{
     top: 730px;
     left: 10px;
     height: 300px;
-    width: ;
+    width:auto ;
    display: flex;
    justify-content: space-evenly;
 }
@@ -212,7 +212,7 @@ video::-webkit-media-controls{
     top: 1050px;
     left: 10px;
     height: 300px;
-    width: ;
+    width:auto ;
    display: flex;
    justify-content: space-evenly;
 }
