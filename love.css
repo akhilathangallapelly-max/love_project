@@ -10,7 +10,7 @@
     position: relative;
 }
 #ved1{
-    height: 100vh;
+    height: auto;
     width: auto; 
     object-fit:cover;
 }
@@ -137,7 +137,7 @@ video::-webkit-media-controls{
     font-size: 20px;
 }
 #ved2{
-    height: 100vh;
+    height: auto;
     width: auto; 
     object-fit:cover;
     margin-bottom: -5px;
