@@ -6,12 +6,12 @@
 }
 #div1{
     height: 729px;
-    width: 1535px;
+    width: auto;
     position: relative;
 }
 #ved1{
     height: auto;
-    width: 100%; 
+    width: auto; 
     object-fit:cover;
 }
 
@@ -138,7 +138,7 @@ video::-webkit-media-controls{
 }
 #ved2{
     height: auto;
-    width: 100%; 
+    width: auto; 
     object-fit:cover;
     margin-bottom: -5px;
 }
